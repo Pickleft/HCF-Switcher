@@ -1,6 +1,7 @@
 # HCF-Switcher
 
 * Star Repo To Support Me :)
+* Join For Support : https://discord.gg/vTECNKcydU
 
 ## Features 
   * Fast Switches.
